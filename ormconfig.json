@@ -1,0 +1,7 @@
+{
+  "type": "sqlite",
+  "database": "employees.db",
+  "entities": ["src/**/*.entity{.ts,.js}"],
+  "synchronize": true,
+  "logging": true
+}
